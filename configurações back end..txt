@@ -1,0 +1,19 @@
+configurações back end.
+
+code .
+
+npm init
+
+node  || index.js
+
+----------------------------------------------------------------------
+
+conta do Github
+
+usuario: marioSoftex roberto
+
+email: mariosoftexroberto@gmail.com
+
+Ms19691977@
+
+email recuperação: mariohtml1969@gmail.com

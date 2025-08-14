@@ -1,0 +1,22 @@
+aula2 Lógica de programação e variáveis.
+
+conceitos de variáveis
+
+tipos de variáveis
+
+Inteiro int
+ponto flutuante || float || double
+Caracter (char)
+String - Texto
+boleano = true e fALSE
+
+let
+const
+var
+--------------------
+instalação do git.
+
+https://github.com/mariosoftexroberto-prog/Softex
+
+
+
