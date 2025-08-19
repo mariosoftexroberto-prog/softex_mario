@@ -8,5 +8,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariosoftexroberto-prog/softex_mario.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariosoftexroberto-prog/softex_mario/issues"
+  },
+  "homepage": "https://github.com/mariosoftexroberto-prog/softex_mario#readme"
 }
