@@ -19,3 +19,5 @@ email: mariosoftexroberto@gmail.com
 Ms19691977@
 
 email recuperação: mariohtml1969@gmail.com
+
+aula5 - https://www.npmjs.com/package/readline-sync
