@@ -7,11 +7,6 @@
 **Símbolos:**
 
 
-
-\+ Adição
-
-\- subtração
-
 multiplicação
 
 / Divisão
